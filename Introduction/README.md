@@ -15,4 +15,4 @@ Andrew Ng分别引用了两位学者的话来定义机器学习的概念。Arthu
 ![Image of Model Representation](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/H6qTdZmYEeaagxL7xdFKxA_2f0f671110e8f7446bb2b5b2f75a8874_Screenshot-2016-10-23-20.14.58.png?expiry=1503100800000&hmac=F_DSow19a8A2kplkrmkl8QMQDSzCUP8kq8B2h9bW1OA)
 
 ## 4. 向量矩阵的运算
-- 因为本人有过2年Matlab的使用经验这里就不介绍课程中与Matlab基本语法相关的内容了。
+- 因为本人有过2年Matlab的使用经验这里就不记录课程中与Matlab基本语法相关的内容了。
