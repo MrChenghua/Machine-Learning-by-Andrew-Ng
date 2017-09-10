@@ -12,7 +12,7 @@ Andrew Ng分别引用了两位学者的话来定义机器学习的概念。Arthu
 这一节内容主要讲了变量的标记，以及模型结构。
 下图为监督学习的模型结构，利用训练集结合相应的学习算法，得到一个可以很好预测输出结果y的方程h(x)。通过将test set中变量x带入h(x)，可以预测y。
 
-![Image of Model Representation](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/H6qTdZmYEeaagxL7xdFKxA_2f0f671110e8f7446bb2b5b2f75a8874_Screenshot-2016-10-23-20.14.58.png?expiry=1503100800000&hmac=F_DSow19a8A2kplkrmkl8QMQDSzCUP8kq8B2h9bW1OA)
+![Image of Model Representation](https://user-images.githubusercontent.com/31018275/30253289-170e1280-9650-11e7-8068-923ad449643b.png)
 
 为了评判模型h(x)是否准确的预测了变量y，这里引入了Cost function的概念。对于不同机器学习模型，cost function的设定也有所不同。以线性回归模型作为例子，评测回归模型好坏的cost function为预测结果与真实值的平均距离，也称作平方差方程，即：
 
@@ -28,7 +28,7 @@ Andrew Ng分别引用了两位学者的话来定义机器学习的概念。Arthu
 
 更为直观的算法示意图：
 
-![Image of Gradient Descent](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/bn9SyaDIEeav5QpTGIv-Pg_0d06dca3d225f3de8b5a4a7e92254153_Screenshot-2016-11-01-23.48.26.png?expiry=1503273600000&hmac=wPzZr08BG3T6uojiRV5hzIgzFJmdS1nmadq59tcd_nQ)
+![Image of Gradient Descent](https://user-images.githubusercontent.com/31018275/30253285-02520946-9650-11e7-8489-4fd2211d3ad0.png)
 
 J随着θ0,θ1按照相应的斜率及步幅下降的同时递减。
 
